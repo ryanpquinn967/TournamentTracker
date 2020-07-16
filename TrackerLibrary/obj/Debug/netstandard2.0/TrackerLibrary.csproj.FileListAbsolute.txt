@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.deps.json
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.pdb
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.dll
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.pdb
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csproj.CopyComplete
+C:\Users\Admin\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csproj.CoreCompileInputs.cache
